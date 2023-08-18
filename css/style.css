@@ -304,27 +304,27 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/carousel-1.webp) center center no-repeat;
     background-size: cover;
 }
 
 .page-header-logistic{
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/contenedores.webp) center center no-repeat;
     background-size: cover;
 }
 
 .page-header-packaging{
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/carne-vacio.webp) center center no-repeat;
     background-size: cover;
 }
 
 .page-header-termoencogible{
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/banner-bolsa.webp) center center no-repeat;
     background-size: cover;
 }
 
 .page-header-commodities{
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/header.jpg) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/commodities.webp) center center no-repeat;
     background-size: cover;
 }
 
@@ -551,7 +551,7 @@
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/map.png) center center no-repeat;
+    background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/map.webp) center center no-repeat;
     background-size: cover;
 }
 
